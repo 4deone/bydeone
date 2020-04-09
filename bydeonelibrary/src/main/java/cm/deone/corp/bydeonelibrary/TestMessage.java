@@ -1,4 +1,4 @@
-package cm.deone.corp.bydeone;
+package cm.deone.corp.bydeonelibrary;
 
 import android.content.Context;
 import android.widget.Toast;
